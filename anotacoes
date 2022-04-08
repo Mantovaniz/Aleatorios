@@ -1,0 +1,14 @@
+mkdir -> criação de pastas
+
+git init 
+
+ls -la
+
+git config
+
+git config --global user.name "nomeUsuario"
+
+git config --global user.email "email"
+
+git config --global core.editor vs
+
